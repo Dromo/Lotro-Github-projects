@@ -6,6 +6,7 @@ Repository containing links to other public github projects related to LoTRO
 - [CalcStat](https://github.com/Giseldah/CalcStat) ([lotrointerface](http://www.lotrointerface.com/downloads/info1022)) - Stat calculation library for Lord of the Rings Online
 - [ChatNotif](https://github.com/EsyArda/ChatNotif) ([lotrointerface](https://www.lotrointerface.com/downloads/info1208)) - A simple LOTRO plugin to display chat messages.
 - [ControllerMod](https://github.com/Pet-etine/ControllerMod) - A custom cross-hotbar controller UI overlay
+- [CombatAnalysis](https://github.com/gjpc/CombatAnalysis) ([lotrointerface](https://www.lotrointerface.com/downloads/info881)) - Personal DPS and parse analysis tool
 - [EpicBattlePlugin](https://github.com/wduda/EpicBattlePlugin) ([lotrointerface](http://www.lotrointerface.com/downloads/info874))
 - [FervorFocus](https://github.com/souruko/FervourFocus) - displays a compact, moveable resource bar for the local player
 - [Gibberish](https://github.com/souruko/Gibberish) - Plugin to help you with all sorts of timers. Old version.
@@ -34,7 +35,6 @@ Repository containing links to other public github projects related to LoTRO
 
 ## Other
 - [Build Skin](https://github.com/smaeul/BuildSkin) - Tool for generating LOTRO UI skins from XML snippets
-- [Ratings calculator](https://github.com/Giseldah/Giseldah.github.io) - https://https://giseldah.github.io/
 - [dat extractor](https://github.com/jtauber/lotro) - ancient python code for extracting dat files
 - [dat explorer(ddo)](https://github.com/Mogwai-TheFurry/DatExplorer) - c# dat explorer
 - [DATUnpacker](https://github.com/Middle-earth-Revenge/DATUnpacker) - original DATUnpacker by Dancing On A Rock Hacker
@@ -50,6 +50,7 @@ Repository containing links to other public github projects related to LoTRO
 - [Map viewer](https://github.com/aya-po/Lotro-Map-Viewer) 
 - [Maestro](https://github.com/NikolaiVChr/maestro) - Maestro and ABC Player for The Lord of the Rings Online
 - [OneLauncher](https://github.com/JuneStepp/OneLauncher) - Launcher and Addons Manager for LOTRO and DDO
+- [Ratings calculator](https://github.com/Giseldah/Giseldah.github.io) - https://https://giseldah.github.io/
 - [Saruman bot](https://github.com/Baviaan/lotro) - Discord bot for managing lotro raids
 - [Songs](https://github.com/figonzal1/Lotro-songs) - reconpilation of various packs of songs
 - [vscode-lotro-api](https://github.com/lunarwtr/vscode-lotro-api) - LotRO API VSCode Extension
