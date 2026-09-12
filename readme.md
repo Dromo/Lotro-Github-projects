@@ -68,4 +68,6 @@ These projects modifies the game files and thus could be considered cheating. Us
 - [bardsofafeather](https://www.bardsofafeather.net/library.html) - lotro music library
 - [dcodumilieu](https://dcodumilieu.com/) - website for housing items
 - [dynmap](https://dynmap.ruslotro.com/) - dynamic browser lotro map
-- [Spanish lotro](https://lotroesp.es/) - Website for Spanish lotro community and client translation
+- **Spanish lotro**
+  - [client download](https://lotroenespanol.com) - Spanish translation of game client
+  - [website and news](https://lotroesp.es/) - Website for Spanish lotro community
