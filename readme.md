@@ -12,12 +12,14 @@ Repository containing links to other public github projects related to LoTRO
 - [Gibberish](https://github.com/souruko/Gibberish) - Plugin to help you with all sorts of timers. Old version.
 - [Gibberish3](https://github.com/souruko/Gibberish3) ([lotrointerface](https://www.lotrointerface.com/downloads/info1143)) - Plugin to help you with all sorts of timers.
 - [glomap](https://github.com/lud0vicb/glomap) - show swift travels between large towns (french client only)
+- [GrommeyUI](https://github.com/JeromeM/GrommeyUI) - Complete UI replacement for The Lord of the Rings Online
 - **Item treasury** ([lotrointerface](https://www.lotrointerface.com/downloads/info870)) - tool for browsing game items using a built-in database.
   - [item-treasury-database](https://github.com/dt192/item-treasury-database) - updated database for the item treasury plugin
 - [lootlogs](https://github.com/souruko/LootLogs) ([lotrointerface](https://www.lotrointerface.com/downloads/info1076)) - tracks your loot lockouts across instances and characters
 - [LOTRO Compendium](https://github.com/lunarwtr/lotro-compendium-plugin) ([lotrointerface](https://www.lotrointerface.com/downloads/info526)) - Compendium is a Questing, Deed, Item, and Crafting database
   - [LOTRO Compendium tools](https://github.com/lunarwtr/lotro-compendium-tools) - Tools for maintaining LotRO Compendium
 - [LFFBoard](https://github.com/lunarwtr/lffboard-plugin) ([lotrointerface](http://www.lotrointerface.com/downloads/info1274)) - summarize and organize group-finding
+- [LUI](https://github.com/Geldahr/LUI) - A LotRO UI and tools.
 - [MissionHelper](https://github.com/wduda/MissionHelper)
 - [Pets](https://github.com/Dromo/Pets) ([lotrointerface](https://www.lotrointerface.com/downloads/info1021)) - Pets bar and management
 - [Potato](https://github.com/souruko/Potato) - Pin targets by keybinding during combat and monitor their state — defeat, current target highlight, CC timers — at a glance.
