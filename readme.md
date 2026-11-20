@@ -32,6 +32,9 @@ Repository containing links to other public github projects related to LoTRO
 - [VitalTarget](https://github.com/souruko/VitalTarget) ([lotrointerface](https://www.lotrointerface.com/downloads/info1078)) - displays a morale (health) bar for your current target, with optional time-to-kill (TTK) and raid DPS readouts
 - [Waypoint](https://github.com/lunarwtr/lotro-waypoint) ([lotrointerface](https://www.lotrointerface.com/downloads/info640)) - simple addon to assist in targeting your character in the right direction
 
+### Spanish
+- [Plugins](https://github.com/sharshazo/Plugins) - collection of couple spanish plugins
+- 
 ## Skins
 - [MithrilUI](https://github.com/Felix-Helleckes/MithrilUI) - Minimal, clean UI. Flat panels, no ornament. Generated skin + Lua plugin suite + build tooling.
 
